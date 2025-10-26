@@ -1,0 +1,25 @@
+body.bg-gradient {
+    background: linear-gradient(120deg, #74ebd5, #ACB6E5);
+    min-height: 100vh;
+}
+
+.card {
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.btn-success {
+    background-color: #2ecc71;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #27ae60;
+}
+
+.list-group-item {
+    font-size: 1.1rem;
+}
